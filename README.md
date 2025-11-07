@@ -54,4 +54,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For further information, reach out via [your preferred contact method] or create an issue in this repo.
+For further information, reach out via 
+email :japhethtaboi2@gmail.com
+
