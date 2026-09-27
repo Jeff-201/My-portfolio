@@ -12,9 +12,6 @@ Welcome to the repository for my personal portfolio! This project showcases my w
 ## Technologies Used
 
 - HTML, CSS, JavaScript
-- [Add details if using React, Vue, Angular, etc.]
-- [List any other frameworks, libraries, or tools used]
-
 ## Setup & Installation
 
 1. Clone the repository:
